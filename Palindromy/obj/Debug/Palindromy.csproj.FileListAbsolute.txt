@@ -1,0 +1,9 @@
+D:\Users\DitmarA.ita19\source\repos\Palindromy\Palindromy\bin\Debug\Palindromy.exe.config
+D:\Users\DitmarA.ita19\source\repos\Palindromy\Palindromy\bin\Debug\Palindromy.exe
+D:\Users\DitmarA.ita19\source\repos\Palindromy\Palindromy\bin\Debug\Palindromy.pdb
+D:\Users\DitmarA.ita19\source\repos\Palindromy\Palindromy\obj\Debug\Palindromy.csprojAssemblyReference.cache
+D:\Users\DitmarA.ita19\source\repos\Palindromy\Palindromy\obj\Debug\Palindromy.Form1.resources
+D:\Users\DitmarA.ita19\source\repos\Palindromy\Palindromy\obj\Debug\Palindromy.Properties.Resources.resources
+D:\Users\DitmarA.ita19\source\repos\Palindromy\Palindromy\obj\Debug\Palindromy.csproj.GenerateResource.cache
+D:\Users\DitmarA.ita19\source\repos\Palindromy\Palindromy\obj\Debug\Palindromy.exe
+D:\Users\DitmarA.ita19\source\repos\Palindromy\Palindromy\obj\Debug\Palindromy.pdb

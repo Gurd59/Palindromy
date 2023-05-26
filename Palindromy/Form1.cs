@@ -55,13 +55,5 @@ namespace Palindromy
 
             txtVystup.Text = vstup + doplneni;
         }
-
-
-
-
-
-
-
-
     }
 }
